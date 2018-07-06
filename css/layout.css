@@ -24,6 +24,18 @@
 
 /* Posititoning Classes */
 
-.shadow {
+.col-1 {
   display: block;
+}
+
+.col-2 {
+  
+}
+
+[class*="col-"] {
+  
+}
+
+.first {
+  margin-left: 0;
 }
