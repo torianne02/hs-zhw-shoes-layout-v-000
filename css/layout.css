@@ -30,11 +30,13 @@
 }
 
 .col-2 {
-
+  float: left;
+  width: 32%;
 }
 
 [class*="col-"] {
-
+  margin-bottom: 2%;
+  margin-left: 2%;
 }
 
 .first {
